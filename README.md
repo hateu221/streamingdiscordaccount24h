@@ -1,5 +1,5 @@
-# Online-24x7
-Make your Discord account online forever! 
+# Streaming and online 24/7
+Make your Discord account Streaming and online 24/7! 
 
 # Installation
 Fork this repo in [repl.it](https://replit.com)
@@ -14,11 +14,11 @@ Fork this repo in [repl.it](https://replit.com)
 
 # Making it 24x7
 
-Go to [UptimeRobot](https://uptimerobot.com).
+Go to [UptimeRobot](https://www.port-monitor.com).
 
 <br> Copy the url that is shown above the console on replit.
 
-<br> Click Create Monitor in UptimeRobot and select HTTP, Give a cool name, and paste the link.
+<br> Click Create Monitor in Port Monitor and select HTTP, Give a cool name, and paste the link.
 
 <br> Click save and then click it again.
 
@@ -26,8 +26,13 @@ Go to [UptimeRobot](https://uptimerobot.com).
 
 # YouTube Tutorial
 
-`Coming soon lmao`
+`here :`
 
 # Thank You
 
-`Consider Subscribing on YouTube`
+`jangan lupa subscribe!`
+
+Note : Jika kalian ingin menjual code / bikin tutorial menggunakan code ini  jangan lupa KASIH CREDITS nya YA!
+
+
+Youtube : RaLLTech
