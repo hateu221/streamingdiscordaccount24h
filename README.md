@@ -14,7 +14,7 @@ Fork this repo in [repl.it](https://replit.com)
 
 # Making it 24x7
 
-Go to [UptimeRobot](https://www.port-monitor.com).
+Go to [Port Monitor](https://www.port-monitor.com).
 
 <br> Copy the url that is shown above the console on replit.
 
